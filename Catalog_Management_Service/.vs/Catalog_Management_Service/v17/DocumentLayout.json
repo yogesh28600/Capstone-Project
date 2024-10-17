@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Capstone Project\\Catalog_Management_Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62534341-B034-47EB-88F3-6B3C425361C4}|Catalog_Management_Service.csproj|c:\\users\\administrator\\desktop\\capstone project\\catalog_management_service\\models\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62534341-B034-47EB-88F3-6B3C425361C4}|Catalog_Management_Service.csproj|solutionrelative:models\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62534341-B034-47EB-88F3-6B3C425361C4}|Catalog_Management_Service.csproj|c:\\users\\administrator\\desktop\\capstone project\\catalog_management_service\\repositories\\icatalogrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62534341-B034-47EB-88F3-6B3C425361C4}|Catalog_Management_Service.csproj|solutionrelative:repositories\\icatalogrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62534341-B034-47EB-88F3-6B3C425361C4}|Catalog_Management_Service.csproj|c:\\users\\administrator\\desktop\\capstone project\\catalog_management_service\\repositories\\catalogrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62534341-B034-47EB-88F3-6B3C425361C4}|Catalog_Management_Service.csproj|solutionrelative:repositories\\catalogrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62534341-B034-47EB-88F3-6B3C425361C4}|Catalog_Management_Service.csproj|c:\\users\\administrator\\desktop\\capstone project\\catalog_management_service\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62534341-B034-47EB-88F3-6B3C425361C4}|Catalog_Management_Service.csproj|solutionrelative:controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62534341-B034-47EB-88F3-6B3C425361C4}|Catalog_Management_Service.csproj|c:\\users\\administrator\\desktop\\capstone project\\catalog_management_service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62534341-B034-47EB-88F3-6B3C425361C4}|Catalog_Management_Service.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62534341-B034-47EB-88F3-6B3C425361C4}|Catalog_Management_Service.csproj|c:\\users\\administrator\\desktop\\capstone project\\catalog_management_service\\context\\catalodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62534341-B034-47EB-88F3-6B3C425361C4}|Catalog_Management_Service.csproj|solutionrelative:context\\catalodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Capstone Project\\Catalog_Management_Service\\Migrations\\20241017103237_second_Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241017103237_second_Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62534341-B034-47EB-88F3-6B3C425361C4}|Catalog_Management_Service.csproj|c:\\users\\administrator\\desktop\\capstone project\\catalog_management_service\\catalog_management_service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62534341-B034-47EB-88F3-6B3C425361C4}|Catalog_Management_Service.csproj|solutionrelative:catalog_management_service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_TIC5DM4/CatalogDb/True/SqlTable/dbo.Courses.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62534341-B034-47EB-88F3-6B3C425361C4}|Catalog_Management_Service.csproj|c:\\users\\administrator\\desktop\\capstone project\\catalog_management_service\\migrations\\20241017101253_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62534341-B034-47EB-88F3-6B3C425361C4}|Catalog_Management_Service.csproj|solutionrelative:migrations\\20241017101253_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62534341-B034-47EB-88F3-6B3C425361C4}|Catalog_Management_Service.csproj|c:\\users\\administrator\\desktop\\capstone project\\catalog_management_service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62534341-B034-47EB-88F3-6B3C425361C4}|Catalog_Management_Service.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241017103237_second_Migration.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Capstone Project\\Catalog_Management_Service\\Migrations\\20241017103237_second_Migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241017103237_second_Migration.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Capstone Project\\Catalog_Management_Service\\Migrations\\20241017103237_second_Migration.cs",
+              "RelativeToolTip": "Migrations\\20241017103237_second_Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:32:37.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CatalogController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Capstone Project\\Catalog_Management_Service\\Controllers\\CatalogController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CatalogController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Capstone Project\\Catalog_Management_Service\\Controllers\\CatalogController.cs",
+              "RelativeToolTip": "Controllers\\CatalogController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:23:43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICatalogRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Capstone Project\\Catalog_Management_Service\\Repositories\\ICatalogRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICatalogRepo.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Capstone Project\\Catalog_Management_Service\\Repositories\\ICatalogRepo.cs",
+              "RelativeToolTip": "Repositories\\ICatalogRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:18:12.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatalogRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Capstone Project\\Catalog_Management_Service\\Repositories\\CatalogRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\CatalogRepo.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Capstone Project\\Catalog_Management_Service\\Repositories\\CatalogRepo.cs",
+              "RelativeToolTip": "Repositories\\CatalogRepo.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:17:47.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Courses [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_TIC5DM4/CatalogDb/True/SqlTable/dbo.Courses.sql",
+              "ToolTip": "dbo.Courses [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-17T10:14:29.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241017101253_init.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Capstone Project\\Catalog_Management_Service\\Migrations\\20241017101253_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241017101253_init.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Capstone Project\\Catalog_Management_Service\\Migrations\\20241017101253_init.cs",
+              "RelativeToolTip": "Migrations\\20241017101253_init.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:12:54.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Capstone Project\\Catalog_Management_Service\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Capstone Project\\Catalog_Management_Service\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:08:26.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Capstone Project\\Catalog_Management_Service\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Capstone Project\\Catalog_Management_Service\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T10:05:55.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CataloDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Capstone Project\\Catalog_Management_Service\\Context\\CataloDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\CataloDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Capstone Project\\Catalog_Management_Service\\Context\\CataloDbContext.cs",
+              "RelativeToolTip": "Context\\CataloDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:58:12.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Catalog_Management_Service",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Capstone Project\\Catalog_Management_Service\\Catalog_Management_Service.csproj",
+              "RelativeDocumentMoniker": "Catalog_Management_Service.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Capstone Project\\Catalog_Management_Service\\Catalog_Management_Service.csproj",
+              "RelativeToolTip": "Catalog_Management_Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T09:49:27.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Capstone Project\\Catalog_Management_Service\\Models\\CourseModel.cs",
+              "RelativeDocumentMoniker": "Models\\CourseModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Capstone Project\\Catalog_Management_Service\\Models\\CourseModel.cs",
+              "RelativeToolTip": "Models\\CourseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:44:46.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

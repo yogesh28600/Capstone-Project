@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TvEj2zOGAOHulTOH6FCtOcc6NUsAzWY4GIt7pQghnGA=",
+  "Source": "Catalog_Management_Service",
+  "BasePath": "_content/Catalog_Management_Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
